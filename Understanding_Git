@@ -1,0 +1,35 @@
+GIT
+
+is an open-source distributed version control system. It is designed to handle  projects efficiency.
+It is developed to co-ordinate the work among the developers. 
+
+* Github
+
+it makes it a lot easier for individuals and teams to use Git for version control and collaboration.
+
+* repository
+
+which is nothing but a folder normally.
+
+*push 
+
+Force a push that would otherwise be blocked, usually because it will delete or overwrite existing commits .
+
+*pull
+
+The term pull is used to receive data from GitHub
+
+*commit
+It is used to record the changes in the repository
+
+*branch 
+ is a version of the repository that diverges from the main working project. 
+
+*clone
+the git clone command is used to target an existing repository and clone or copy it in a new directory.
+
+*review
+If you want to review/rework someone else’s changes, it’s very easy to do
+
+*merge
+ combines sequences of commits into one unified history of commits.
