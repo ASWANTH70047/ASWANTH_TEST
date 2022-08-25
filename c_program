@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+ 
+ int num1,num2;//declaring two integer numbers
+printf("ENTER TWO NUMBERS");
+scanf("%d %d",&num1,&num2);//reading two numbers
+printf("sum of two number = %d",num1+num2);//performs addition and printing output
+printf("difference =%d",num1-num2);//performs substraction and printing output
+printf("division =%d",num1/num2);//performs division and printing output
+ return 0;
+}
