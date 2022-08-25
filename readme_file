@@ -1,0 +1,3 @@
+in the program first including header file
+declaring two integer variable and reading values to that variables using scanf.
+performing addition,substraction and division using arithmatic operators and printing the output using printf
